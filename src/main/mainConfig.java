@@ -16,7 +16,7 @@ public class mainConfig{
         
                           .-----------------MMMM_-----_______
                         /''''''''''(______O] ----------____  \______/]_
-     __...---'"""\_ --''             DaRk RiDeR TeAm     ___________@
+     __...---'"""\_ --''                                 ___________@
  |'''                   ._   _______________=---------"""""""
  |                ..--''|   l L |_l   |
  |          ..--''      .  /-___j '   '
@@ -25,7 +25,7 @@ public class mainConfig{
                       L__'         \    -
                                     ---'-.
     Updated: 16-9-2016 [Capable of Conncecting to DRbotServer1.1 Enc Version]
-    Designer: MerNat (DaRk RiDeR tEaM)
+    Designer: MerNat
     Date Started: Sunday 15,March,2015
     Date finished: January,2016
     Aim: ~~~~ Pinging ~~~~
