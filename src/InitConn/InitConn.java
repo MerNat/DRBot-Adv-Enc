@@ -77,7 +77,7 @@ public class InitConn implements Runnable{
             }
     }
     private void connection(){
-        Thread newConn = new Thread(new InitConn("doom.zapto.org","doom2.zapto.org",6667,"Dearmama1!",false));
+        Thread newConn = new Thread(new InitConn("doom.zapto.org","doom2.zapto.org",5002,"Dearmama1!",false));
         newConn.start();
     }
     private void connectToServer(){

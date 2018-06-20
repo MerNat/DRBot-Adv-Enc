@@ -12,7 +12,8 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ExecutorService;
 
 public class myCommands {
-    private final String[] myCommands = {"capture",
+    private final String[] myCommands = {
+    "capture", //done but open terminal on ftp
     "cmd",//done   1
     "delete",//done
     "die",
