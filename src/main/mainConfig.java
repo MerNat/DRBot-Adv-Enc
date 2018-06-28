@@ -27,7 +27,7 @@ public class mainConfig{
     Updated: 16-9-2016 [Capable of Conncecting to DRbotServer1.1 Enc Version]
     Designer: MerNat
     Date Started: Sunday 15,March,2015
-    Date finished: January,2016
+    Date finished:
     Aim: ~~~~ Pinging ~~~~
     Functionaliy: ~~~~ On the List ~~~~
     Version: DRBot 1.1.2 ~ Infect Mode Ver + Bitcoin Miner + Enc applicable Vers.
