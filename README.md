@@ -4,4 +4,4 @@ Java Bot Virus ~ (Education Purpose Only)
 
 This Java Project is a bot mainly created for educational purpose.
 
-Until Now It's been designed to access windows platform and will be gradually updated to other platforms.
+C&C Controller => https://github.com/MerNat/DRBotServer
