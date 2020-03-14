@@ -6,10 +6,6 @@ import java.util.HashMap;
 /**
  *
  * @author Meron
- * -- I just created this one to handle the secure line transaction .... 
- *      i will do it .....
- * 
- * blahblahb    blah blah blah blah blah blah .........
  */
 
 
